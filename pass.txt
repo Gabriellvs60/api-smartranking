@@ -1,0 +1,5 @@
+M0ngoDb22
+gabriellvs60
+
+
+mongodb+srv://gabriellvs60:<password>@cluster0.rnzdr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
